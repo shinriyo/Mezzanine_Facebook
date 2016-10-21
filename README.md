@@ -17,7 +17,7 @@ mv Mezzanine_Facebook/mezzanine_facebook your_mezzanine_app_path
 
 2. Run your Mezzanine project and go to admin page.
 
-3. Go to Page/Pages and configure the `Facebook App ID` (and optionally `FACEBOOK_APP_SECRET`).
+3. Go to Site/Settings and configure the `Facebook App ID` (and optionally `FACEBOOK_APP_SECRET`).
 
 4. Add their values in your site's admin and now you can use them like the example in `views.py`.
 
